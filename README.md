@@ -5,5 +5,3 @@
   - **C#, Java, FrontEnd and BackEnd Development, Machine Learning Algorithms/Models**
     
 ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerbsezer&show_icons=true&theme=transparent)
-
-
