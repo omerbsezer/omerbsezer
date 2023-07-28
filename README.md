@@ -1,4 +1,3 @@
-- Open to learning new things and new implementations.
 - I like to develop on the following topics (now, working on):
   - **Linux, Docker, Kubernetes, AWS, Terraform, Ansible, Python, C++, Scripting, DevOps, and Machine Learning**
 - Before, worked on:
