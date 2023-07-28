@@ -1,5 +1,5 @@
-### Open to learn new things and new implementations
+Open to learning new things and new implementations
 
-<img src="https://myreadme.vercel.app/api/embed/omerbsezer?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerbsezer&show_icons=true&theme=transparent)
 
 
