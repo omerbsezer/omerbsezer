@@ -1,5 +1,5 @@
 - I like to develop on the following topics (now, still working on):
-  - **Linux, Docker, Kubernetes, AWS, Terraform, Ansible, Python, Scripting, Prometheus, Grafana, Pipelines, Runners, DevOps, ML**
+  - **Linux, Docker, Kubernetes, AWS, Terraform, Ansible, Python, Golang, Scripting, Prometheus, Grafana, Pipelines, Runners, DevOps**
 - Before, worked on:
   - **C++, C#, Java, Frontend & Backend Development, ML Algorithms**
     
