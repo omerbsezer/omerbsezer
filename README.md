@@ -1,4 +1,4 @@
-- I like to develop on the following topics (now, still working on):
+- Developing on the following topics:
   - **Linux, Docker, Kubernetes, AWS, Terraform, Ansible, Python, Go, Scripting, Prometheus, Grafana, Pipelines, Runners, DevOps**
 - Before, worked on:
   - **C++, C#, Java, Frontend & Backend Development, ML Algorithms**
