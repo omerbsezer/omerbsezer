@@ -1,5 +1,5 @@
 - Developing on the following topics:
-  - **Linux, Docker, Kubernetes, AWS, Terraform, Ansible, Python, Go, Scripting, Prometheus, Grafana, Pipelines, Runners, DevOps**
+  - **Linux, Docker, Kubernetes, AWS, Terraform, Ansible, Python, Go, Scripting, Prometheus, Grafana, Pipelines, Runners, DevOps, Infrastructure**
 - Before, worked on/with:
   - **C++, Java, Frontend & Backend Web Development, ML**
     
