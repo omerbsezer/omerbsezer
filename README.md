@@ -1,4 +1,4 @@
 - Developing on the following topics:
-  - **Linux, Docker, Kubernetes, AWS, Terraform, Ansible, Python, Scripting, Prometheus, Grafana, Pipelines, Runners, DevOps, Infrastructure, MLOps, MLFlow, ML, AI, LLM Apps, Agents **
+  - **Linux, Docker, Kubernetes, AWS, Terraform, Ansible, Python, Scripting, Prometheus, Grafana, Pipelines, Runners, DevOps, Infrastructure, MLOps, MLFlow, ML, AI, LLM Apps, Agents**
     
 ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerbsezer&show_icons=true&theme=transparent)
