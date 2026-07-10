@@ -1,3 +1,3 @@
 - Developing on the following topics:
-  - **Linux, Docker, Kubernetes, AWS, Terraform, Prometheus, Grafana, DevOps, MLOps, AIOps, Agent Frameworks, Agent Apps, MCP Tools**
+  - **Linux, Docker, Kubernetes, AWS, Terraform, DevOps, MLOps, Agent Frameworks (Langchain, Langgraph, Strands), Agentic Apps, Agent Harness (Skills, Memory, Deployment, Monitoring, Evaluation)**
 
